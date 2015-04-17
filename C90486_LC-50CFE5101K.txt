@@ -1,0 +1,24 @@
+Revision History
+
+v0.06
+	software name: 
+		CS90486_UMC_MS6308_702_1GHZ_V500HJ1_PE8_1920_DH1418_OAD_DA_AT_R_20150416_153525
+	download link: 
+		http://fs.cvte.com/getFile.php?uuid=9088d2d5-e40d-11e4-b1ae-1c6f65d2b995
+	release by:
+		bob.liu
+	Modification:
+            1. Add internet update function (not yet finish)
+            2. Add INITxxyy.
+            3. Other update see Bug List.(With yellow colour)
+
+v0.05
+	software name: 
+		CS90486_UMC_MS6308_702_1GHZ_V500HJ1_PE8_1920_DH1418_YTTV_AUTOTEST_OAD_AT_R14482_20150414_150250
+	download link: 
+		http://fs.cvte.cn/getFile.php?uuid=2434207a-e276-11e4-b1ae-1c6f65d2b995 
+	release by:
+		ben.wang
+	Modification:
+            1. Use the latest code base which we pass the auto test in Mstar. 
+            2. Correct the YouTube key mapping.
